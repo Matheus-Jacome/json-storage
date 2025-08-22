@@ -1,0 +1,4 @@
+GET http://localhost:5500 
+
+POST http://localhost:5500
+content-type: application/json 

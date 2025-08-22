@@ -1,5 +1,8 @@
-{
-    "message": "hello, fs",
-    "color": "yellow",
-    "turma": "super modulo node"
-}
+[
+    {
+        "player": "Matheus",
+        "score": 5
+    }
+
+]
+
